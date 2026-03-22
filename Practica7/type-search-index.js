@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DispositivoElectronico"},{"p":"<Unnamed>","l":"Sensor"},{"p":"<Unnamed>","l":"SensorAceleracion"},{"p":"<Unnamed>","l":"SensorPresion"},{"p":"<Unnamed>","l":"SensorTemperatura"},{"p":"<Unnamed>","l":"SistemaMonitoreo"}];updateSearchResults();
