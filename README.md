@@ -22,6 +22,9 @@ Simula un sensor de presión atmosférica con valores aleatorios dentro de un ra
 
 SensorAceleracion
 Simula un sensor de aceleración en tres ejes, mostrando valores en X, Y y Z y calculando la magnitud total.
+## Link javadoc:
+https://strong-nougat-baeb32.netlify.app/dispositivoelectronico
+
 
 SistemaMonitoreo
 Es la clase principal donde se crean los sensores, se almacenan en una lista y se ejecutan sus métodos para demostrar el uso del polimorfismo.
